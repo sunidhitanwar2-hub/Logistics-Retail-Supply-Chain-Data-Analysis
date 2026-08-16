@@ -11,16 +11,15 @@ __pycache__/
 .env
 .env.*
 
-# Jupyter
-.ipynb_checkpoints/
-
-# IDE
+# VS Code
 .vscode/
 
 # OS files
 .DS_Store
 Thumbs.db
 
-# Temporary files
-*.tmp
+# Logs
 *.log
+
+# Old backup project
+BACKUP_OLD_PROJECT/
