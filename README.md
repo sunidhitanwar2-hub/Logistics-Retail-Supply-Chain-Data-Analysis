@@ -114,5 +114,11 @@ Logistics-Retail-Supply-Chain-Data-Analysis/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
+## 📈 Power BI Dashboard
+
+The transformed retail data is analyzed and visualized using Microsoft Power BI.
+
+### Dashboard Preview
 
 ![Power BI Dashboard](images/powerbi-dashboard.png)
